@@ -1,0 +1,1 @@
+export const SPOONACULAR_API_KEY = '4ee4da393cdb44688f40fa3c9349a061';
